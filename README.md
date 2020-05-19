@@ -10,9 +10,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Syntax highlighted code block
 
-# Header 1  这是陈
-## Header 2  这是锦
-### Header 3  这是东
+# Header 1  
+#这是陈
+## Header 2  
+##这是锦
+### Header 3  
+###这是东
 
 - Bulleted
 - List
@@ -26,7 +29,7 @@ Syntax highlighted code block
 ```
 
 更多
-###主题主题
+不知道长什么样的主题
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenjindong2217/chenjindong2217.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
